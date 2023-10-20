@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="1000" viewBox="0 0 1000 1000">
+  <defs>
+    <style>
+      .cls-1 {
+        font-size: 200px;
+        fill: #333;
+        font-family: zihunmengyaxiongti_trial;
+      }
+    </style>
+  </defs>
+  <text id="L" class="cls-1" transform="matrix(3.11, 0, -0.698, 3.11, 308.992, 689.196)">L</text>
+</svg>
