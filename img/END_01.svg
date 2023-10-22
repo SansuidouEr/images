@@ -1,0 +1,55 @@
+<svg id="组_1" data-name="组 1" xmlns="http://www.w3.org/2000/svg" width="749.978" height="36.62" viewBox="0 0 4096 200">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #004aa0;
+      }
+
+      .cls-1, .cls-2, .cls-3 {
+        fill-rule: evenodd;
+      }
+
+      .cls-2 {
+        fill: #fff;
+      }
+
+      .cls-3 {
+        fill: #d00000;
+      }
+    </style>
+  </defs>
+  <path id="多边形_1" data-name="多边形 1" class="cls-1" d="M2292.18,36l55.82,64-55.82,64H1804.82L1749,104.9,1804.82,36h487.36Z"/>
+  <path id="END_拷贝" data-name="END 拷贝" class="cls-2" d="M1955.3,135.463V123.58h-33.31V104.8h29.86V92.914h-29.86V76.431h32.16V64.548h-47.47v70.915h48.62Zm118.93-70.915h-14.17V120.13l-0.38.383-26.8-55.965h-22.59v70.915h14.17V76.814l0.38-.383,27.56,59.032h21.83V64.548Zm78.34,11.883q21.045-.377,20.67,23.766,0.39,24.15-20.67,23.383h-8.04V76.431h8.04Zm1.15,59.032q35.22,0,35.6-35.266-0.375-35.263-35.6-35.649H2129.6v70.915h24.12Z"/>
+  <path id="H" class="cls-3" d="M2395.94,87.488h55.02L2434.03,112.5H2379Z"/>
+  <path id="L" class="cls-1" d="M2503.99,87.488h55.02L2542.08,112.5h-55.02Z"/>
+  <path id="H_拷贝" data-name="H 拷贝" class="cls-3" d="M2612.94,87.988h55.02L2651.03,113H2596Z"/>
+  <path id="L_拷贝" data-name="L 拷贝" class="cls-1" d="M2720.99,87.988h55.02L2759.08,113h-55.02Z"/>
+  <path id="H_拷贝_2" data-name="H 拷贝 2" class="cls-3" d="M2828.94,87.988h55.02L2867.03,113H2812Z"/>
+  <path id="L_拷贝_2" data-name="L 拷贝 2" class="cls-1" d="M2936.99,87.988h55.02L2975.08,113h-55.02Z"/>
+  <path id="H_拷贝_3" data-name="H 拷贝 3" class="cls-3" d="M3045.94,87.988h55.02L3084.03,113H3029Z"/>
+  <path id="L_拷贝_3" data-name="L 拷贝 3" class="cls-1" d="M3153.99,87.988h55.02L3192.08,113h-55.02Z"/>
+  <path id="H_拷贝_4" data-name="H 拷贝 4" class="cls-3" d="M3261.94,87.988h55.02L3300.03,113H3245Z"/>
+  <path id="L_拷贝_4" data-name="L 拷贝 4" class="cls-1" d="M3369.99,87.988h55.02L3408.08,113h-55.02Z"/>
+  <path id="H_拷贝_5" data-name="H 拷贝 5" class="cls-3" d="M3478.45,87.488h55.02L3516.54,112.5h-55.02Z"/>
+  <path id="L_拷贝_5" data-name="L 拷贝 5" class="cls-1" d="M3586.5,87.488h55.03L3624.6,112.5h-55.03Z"/>
+  <path id="H_拷贝_6" data-name="H 拷贝 6" class="cls-3" d="M3694.94,87.988h55.02L3733.03,113h-55.01Z"/>
+  <path id="L_拷贝_6" data-name="L 拷贝 6" class="cls-1" d="M3802.98,87.988h55.01L3841.07,113h-55.02Z"/>
+  <path id="H_拷贝_7" data-name="H 拷贝 7" class="cls-3" d="M3911.94,87.988h55.02L3950.03,113h-55.01Z"/>
+  <path id="L_拷贝_7" data-name="L 拷贝 7" class="cls-1" d="M4019.98,87.988h55.01L4058.07,113h-55.02Z"/>
+  <path id="H-2" data-name="H" class="cls-3" d="M1700.06,87.488h-55.02l16.93,25.008H1717Z"/>
+  <path id="L-2" data-name="L" class="cls-1" d="M1592.01,87.488h-55.02l16.93,25.008h55.02Z"/>
+  <path id="H_拷贝-2" data-name="H 拷贝" class="cls-3" d="M1483.06,87.988h-55.02L1444.97,113H1500Z"/>
+  <path id="L_拷贝-2" data-name="L 拷贝" class="cls-1" d="M1375.01,87.988h-55.02L1336.92,113h55.02Z"/>
+  <path id="H_拷贝_2-2" data-name="H 拷贝 2" class="cls-3" d="M1267.06,87.988h-55.02L1228.97,113H1284Z"/>
+  <path id="L_拷贝_2-2" data-name="L 拷贝 2" class="cls-1" d="M1159.01,87.988h-55.02L1120.92,113h55.02Z"/>
+  <path id="H_拷贝_3-2" data-name="H 拷贝 3" class="cls-3" d="M1050.06,87.988H995.041L1011.97,113H1067Z"/>
+  <path id="L_拷贝_3-2" data-name="L 拷贝 3" class="cls-1" d="M942.009,87.988H886.985L903.916,113h55.023Z"/>
+  <path id="H_拷贝_4-2" data-name="H 拷贝 4" class="cls-3" d="M834.065,87.988H779.041L795.971,113H851Z"/>
+  <path id="L_拷贝_4-2" data-name="L 拷贝 4" class="cls-1" d="M726.009,87.988H670.985L687.916,113h55.023Z"/>
+  <path id="H_拷贝_5-2" data-name="H 拷贝 5" class="cls-3" d="M617.554,87.488H562.53L579.461,112.5h55.024Z"/>
+  <path id="L_拷贝_5-2" data-name="L 拷贝 5" class="cls-1" d="M509.5,87.488H454.475l16.93,25.008h55.024Z"/>
+  <path id="H_拷贝_6-2" data-name="H 拷贝 6" class="cls-3" d="M401.057,87.988H346.043L362.97,113h55.015Z"/>
+  <path id="L_拷贝_6-2" data-name="L 拷贝 6" class="cls-1" d="M293.02,87.988H238.006L254.933,113h55.014Z"/>
+  <path id="H_拷贝_7-2" data-name="H 拷贝 7" class="cls-3" d="M184.057,87.988H129.043L145.97,113h55.015Z"/>
+  <path id="L_拷贝_7-2" data-name="L 拷贝 7" class="cls-1" d="M76.02,87.988H21.006L37.933,113H92.947Z"/>
+</svg>
