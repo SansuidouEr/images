@@ -1,0 +1,1 @@
+displayString -replace -value "Select a region to begin tuning for vray" m_vrayStartIprRender.kSelectRegionCaption;
